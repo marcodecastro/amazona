@@ -1,0 +1,53 @@
+const data = {
+  products: [
+    {
+      name: '715g6324-mod-000-004x',
+      slug: 'PCI tv philips',
+      category: 'Tv',
+      image: '/images/p1.jpg', // 679px × 829px
+      price: 155,
+      countInStock: 10,
+      brand: 'Philips',
+      rating: 4.5,
+      numReviews: 10,
+      description: 'high quality shirt',
+    },
+    {
+      name: 'BN91-13583G',
+      slug: 'Placa principal tv samsung',
+      category: 'Tv',
+      image: '/images/p2.jpg',
+      price: 250,
+      countInStock: 20,
+      brand: 'Samsung',
+      rating: 4.0,
+      numReviews: 10,
+      description: 'high quality product',
+    },
+    {
+      name: '1 876-561-13',
+      slug: 'Placa principal tv sony',
+      category: 'Tv',
+      image: '/images/p3.jpg',
+      price: 350,
+      countInStock: 15,
+      brand: 'Sony',
+      rating: 4.5,
+      numReviews: 14,
+      description: 'high quality product',
+    },
+    {
+      name: 'EAX65363904(1.1)',
+      slug: 'Placa principal tv lg',
+      category: 'Pants',
+      image: '/images/p4.jpg',
+      price: 500,
+      countInStock: 5,
+      brand: 'Puma',
+      rating: 4.5,
+      numReviews: 10,
+      description: 'high quality product',
+    },
+  ],
+};
+export default data;
